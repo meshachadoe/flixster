@@ -20,10 +20,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/2y4ePuKyj1.gif"><br>
+<img src="http://g.recordit.co/2y4ePuKyj1.gif">
 <img src="http://g.recordit.co/OwQL47urqP.gif"><br>
 <img src="http://g.recordit.co/GH8NNFQ710.gif"><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
-One of the main challenges was understanding the concept of netwo
+One of the main challenges was understanding the concept of using CocoaPods to allow for using open source libraries that aid the development process. I was able to fully understand when the reading pointed out its similarity to NPM for JavaScript, which reminded me that package managers are helpful to keep track of the libraries that your app is using and also easily use "modules" created by other developers.
